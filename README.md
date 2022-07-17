@@ -1,2 +1,3 @@
-# JS-Challenge__ANDdigital
-Front-End Development Coding Test from ANDdigital
+# JS-Challenge\_\_ANDdigital
+
+> Front-End Development Coding Test from ANDdigital
