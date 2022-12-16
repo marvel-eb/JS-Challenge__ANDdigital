@@ -1,5 +1,5 @@
 /********
-Coding Challenge 
+// CODING CHALLENGE //
 We have really enjoyed speaking with you so far AND we are excited to invite you to take part in our in house coding exercise to showcase your programming and problem solving skills. 
 
 We recommend you spend 1hour 30mins to 2hour 30mins to complete this challenge, however it is not timed. We are happy for you to take your time and really showcase your coding skills and ability!
@@ -25,8 +25,6 @@ Keep things simple, don’t over-engineer your solution.
 Send us the archived file <firstname.lastname>-L1L2_challenge.zip via email.
 
 Happy coding :)
-
-
  *********/
 
 ////////////////////////////////////////////////////////////////////////
